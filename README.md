@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Hauteknits
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Holden Clarke
+### Student, Entrepreneur, Spaghetti-Coder
+-----
+##### Language Competencies
+* JavaScript, Node.JS
+* Java
+* C/C++
+* Ruby
+* Bash
+* PowerShell
+* Lisp/Racket
+* SQL
+* MIPS/x86_64 asm
 
-<!---
-Hauteknits/Hauteknits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Former Java Instructor, currently seeking a degree at ASU in Computer Science with a concentration in Cybersecurity. Lot of personal projects, in the various stages of moving them to GitHub
+Most of these projects are personal projects, others are assignments, always looking for new projects!
